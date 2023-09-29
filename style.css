@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+.body{
+    background-color: rgb(237, 160, 160);
+}
+.clasediv{
+    /* display: flex; */
+    
+}
+
+.tarjetas {
+
+    flex-wrap: wrap;
+}
+
+
+
+
